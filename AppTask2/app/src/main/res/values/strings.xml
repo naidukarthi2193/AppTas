@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pillow Fight</string>
+    <string name="description">Knockout based game where the player balances on a ledge and knocks out the opponent with the pillos on the stick</string>
+    <string name="rules">Dont hit other players with other than Stick part</string>
+    <string name="oneliner"> Noob vs Pro - it\'s pillow Fight Bro</string>
+</resources>
